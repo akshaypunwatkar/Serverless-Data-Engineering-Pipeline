@@ -4,4 +4,4 @@ Serverless data engineering pipeline on AWS, using S3, DynamoDB, SQS and Lambda 
 <img src="Data_engineering_architecture.png"
      alt="Markdown Monster icon"
      width="500"
-     style="float: middle; margin-right: 10px;" />
+     style="float: center; margin-right: 10px;" />
