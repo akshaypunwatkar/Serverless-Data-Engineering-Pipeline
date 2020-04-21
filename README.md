@@ -20,7 +20,7 @@ Serverless data engineering pipeline on AWS, using S3, DynamoDB, SQS and Lambda 
 
 ### Reference Links: 
 
-[Amazon Web Service (AWS)](https://aws.amazon.com){:target="_blank"}    
+[Amazon Web Service (AWS)](https://aws.amazon.com){target="_blank"}    
 [Amazon S3](https://aws.amazon.com/s3/){:target="_blank"}   
 [AWS Lambda](https://aws.amazon.com/lambda/){:target="_blank"}    
 [Amazon DynamoDB](https://aws.amazon.com/dynamodb/){:target="_blank"}    
