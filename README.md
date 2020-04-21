@@ -10,7 +10,7 @@ Serverless data engineering pipeline on AWS, using S3, DynamoDB, SQS and Lambda 
      style="float: center; margin-right: 10px;" />
 
 
-### Workflow explained [Youtube URL]()
+### Workflow explained :  [Youtube Link]()
 
 * We will start with a CVS file, which we will upload in a **S3 bucket**. The first **lambda function**, *s3_to_dynaomdb_lambda.py*  will get triggered when we make the upload. The function will read the csv file and write the data to a already created table in **DynamoDB**.
 
@@ -20,10 +20,10 @@ Serverless data engineering pipeline on AWS, using S3, DynamoDB, SQS and Lambda 
 
 ### Reference Links: 
 
-[Amazon Web Service (AWS)]()
-[Amazon S3](https://aws.amazon.com/s3/)
-[AWS Lambda](https://aws.amazon.com/lambda/)
-[Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
-[Amazon Cloudwatch](https://aws.amazon.com/cloudwatch/)
-[Amazon Simple Queue Service (SQS)](https://aws.amazon.com/sqs/)
-[AWS Comprehend](https://aws.amazon.com/comprehend/)
+[Amazon Web Service (AWS)](https://aws.amazon.com)    
+[Amazon S3](https://aws.amazon.com/s3/)   
+[AWS Lambda](https://aws.amazon.com/lambda/)    
+[Amazon DynamoDB](https://aws.amazon.com/dynamodb/)    
+[Amazon Cloudwatch](https://aws.amazon.com/cloudwatch/)    
+[Amazon Simple Queue Service (SQS)](https://aws.amazon.com/sqs/)   
+[AWS Comprehend](https://aws.amazon.com/comprehend/)       
